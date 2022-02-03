@@ -1,3 +1,3 @@
-function displayMenu (Vegan: boolean, Pescatarian: boolean, GF: boolean) {
+function displayMenu (Vegan: boolean, Pescatarian: boolean, Reg: boolean) {
 	
 }
